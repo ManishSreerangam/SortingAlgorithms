@@ -15,7 +15,7 @@ Here i am focussing on the resource "TIme". The rate at which running time of an
 | Cubic | O(n^3) |
 | Exponential | O(2^n) , O(10^n) |
 <p> To understand the above table, let us consider the case of linear order of growth for which the BIG O notation is O(n) what does that mean? which means as the amount of data increases the time taken for the algorithm / number of iterations taken for the algorithm to execute increases linearly.</p>
----
+
 # Sorting Algorithm
 <p> Sorting algorithms are used to sort the data in a particular order. There are various algorithms available to sort the data </p>
 <ol> 
